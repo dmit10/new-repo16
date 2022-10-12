@@ -1,0 +1,12 @@
+[map "2db42660-d0c7-39a0-8694-2ff3245f085c"]
+	object = 1c4b385fb0a62e3cf13349673653814ff21903cb
+	path = module1
+	type = expand module
+[map "e599450f-1eab-3dd2-bf43-203db55861df"]
+	object = 1c4b385fb0a62e3cf13349673653814ff21903cb
+	path = module2
+	type = expand module
+[map "9cc71690-0ba5-317d-875e-907bd6277b19"]
+	object = 1c4b385fb0a62e3cf13349673653814ff21903cb
+	path = module3
+	type = expand module
